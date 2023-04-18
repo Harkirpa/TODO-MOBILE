@@ -41,8 +41,14 @@
     text-decoration: none;
     color: white;
     
-      width:100px;
-      height:20px;
+    
+    
+      padding: 6px;
+      text-align: center;
+    
+      display: inline-block;
+   
+      margin: 2px 1px;
 
  }
  #plus2{
@@ -53,6 +59,10 @@
     text-decoration: none;
     color: white;
     margin-left:170px;
+    
+    padding: 6px;
+    text-align: center;
+    margin: 2px 1px;
 
  }
 
@@ -65,8 +75,8 @@
   
 }
 .newtask2{
-  margin-top: -8px;
-  margin-left: 2%;
+  margin-top: -20px;
+  margin-left: 49%;
 
 }
 .box{
@@ -120,7 +130,7 @@
    position:relative;
   
     margin: auto;
-   top:-550px;
+   top:-660px;
     font-weight: bolder;
 
  }
@@ -145,3 +155,6 @@
      left: 170px;
      color: black;
   }
+a{
+   text-decoration: none;
+}
