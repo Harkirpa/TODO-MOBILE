@@ -1,0 +1,147 @@
+@media  only  screen and (max-width:500px){
+    #plus1{
+        display:none;
+    }
+    .box4{
+        display:none;
+    }
+    .box5{
+        display: none;
+    }
+}
+
+ #text{
+    width:300px;
+ }
+ .taskpage1{
+    margin-top: 50px;
+    margin-right: 50%;
+ }
+.top{
+    background-color: white;
+    font-family: 'Roboto',sans-serif;
+    width:100%;
+   height:70px;
+  box-shadow: 0px 5px 10px 5px rgb(190, 193, 178);
+   font-weight: bolder;
+   font-size: xx-large;
+ }
+.task{
+    color: black;
+    font-weight: bolder;
+    padding-left: 90px;
+    padding-top: 15px;
+
+ }
+ #plus{
+    border-radius: 50%;
+      border:2px solid #00A5eC;
+    font-size: xx-large;
+    background-color:#00A5eC;
+    text-decoration: none;
+    color: white;
+    
+      width:100px;
+      height:20px;
+
+ }
+ #plus2{
+    border-radius: 50%;
+      border:2px solid #00A5eC;
+    font-size: xx-large;
+    background-color:#00A5eC;
+    text-decoration: none;
+    color: white;
+    margin-left:170px;
+
+ }
+
+ .parent3{
+    filter:blur(8px);  
+ }
+ .newtask{
+    margin-top: 30px;
+    margin-left: 40%;
+  
+}
+.newtask2{
+  margin-top: -8px;
+  margin-left: 2%;
+
+}
+.box{
+    width: 300px;
+     height: 230px; 
+     background-color: #FFFFFF ;
+     border: 1px solid #EDEDED;
+     border-radius: 10px;
+     color: #00A5eC;
+      box-shadow: 0px 5px 20px #67676729;
+      margin: auto;
+   
+   
+  }
+  *{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+ }
+
+.text2{
+    color: #00A5eC;
+    font-weight: bolder;
+ }
+ #head{
+    text-decoration: none;
+    color: #00A5eC;
+    text-align: center;
+}
+#back2{
+    font-family: 'Roboto',sans-serif;
+    color:rgb(70,69,69);
+    text-decoration: none;
+}
+ 
+#back{
+  border-radius: 50%;
+   
+  font-size: xx-large;
+  background-color:black;
+  text-decoration: none;
+  color: white;
+ 
+  margin-left: 45px;
+}
+.box6{
+    width:300px;
+    height:150px;
+    background-color: white;
+    border:2px solid white;
+   position:relative;
+  
+    margin: auto;
+   top:-550px;
+    font-weight: bolder;
+
+ }
+ .box6:hover{
+    box-shadow:0px 0px 0px 0px white;
+ }
+ .btn{
+   
+    background-color: #00A5eC;
+    border:none;
+    left:200px;
+    top:50px;
+    width:80px;
+   position: relative;
+   height:30px;
+ }
+ .cross{
+
+    text-decoration: none;
+     font-size: 20px;
+     position: relative;
+     left: 170px;
+     color: black;
+  }
