@@ -40,15 +40,10 @@
     background-color:#00A5eC;
     text-decoration: none;
     color: white;
-    
-    
-    
-      padding: 6px;
+    padding: 6px;
       text-align: center;
-    
-      display: inline-block;
-   
-      margin: 2px 1px;
+     display: inline-block;
+    margin: 2px 1px;
 
  }
  #plus2{
@@ -59,7 +54,6 @@
     text-decoration: none;
     color: white;
     margin-left:170px;
-    
     padding: 6px;
     text-align: center;
     margin: 2px 1px;
@@ -157,4 +151,12 @@
   }
 a{
    text-decoration: none;
+}
+.lowercontainer{
+   display:flex;
+   justify-content: flex-start;
+   gap:10px;
+     flex-wrap: wrap;
+   position: absolute;
+   left:-24px;
 }
